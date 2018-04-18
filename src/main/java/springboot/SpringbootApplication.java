@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-public class SpringbootApplication {
+public class SpringbootApplication { //调式git commit
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class, args);
     }
